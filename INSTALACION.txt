@@ -1,0 +1,5 @@
+1. Instalar el servidor de json de node con el siguiente comando.
+      sudo npm install -g json-server.
+
+2. 
+    
