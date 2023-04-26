@@ -1,5 +1,8 @@
 1. Instalar el servidor de json de node con el siguiente comando.
       sudo npm install -g json-server.
 
-2. 
-    
+2. Iniciar el servidor.
+    json-server --watch db.json
+
+3. Para poder ingresar a los posts y a los comentarios tenemos que ir 
+   a nuestro navegador a la direccion localhost:3000.
